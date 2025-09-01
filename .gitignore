@@ -20,6 +20,7 @@ logs/
 ai_saturday_venv/
 venv/
 env/
+gensim_env
 
 # OS
 .DS_Store
